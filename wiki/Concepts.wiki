@@ -6,4 +6,4 @@ Add your content here.
 
 
 = Details =
-http://deepsea.googlecode/images/cave.jpg
+http://deepsea.googlecode.com/files/cave.jpg
